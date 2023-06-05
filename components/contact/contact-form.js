@@ -50,7 +50,7 @@ export default function ContactForm() {
           </div>
         </div>
         <div className={ContactFormStyle.control}>
-          <label htmlFor="message">Your Email</label>
+          <label htmlFor="message">Your Message</label>
           <textarea
             id="message"
             rows="5"
